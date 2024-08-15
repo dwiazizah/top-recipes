@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+    color:coral;
+}
+
+h2 {
+    color: lightcoral;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
