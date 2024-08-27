@@ -1,5 +1,5 @@
 body {
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
@@ -7,12 +7,28 @@ h1 {
     color: coral;
 }
 
-ul {
-    font-size: 22px;
-    color:coral;
+.card {
+    display: block;
+    margin: 0 auto;
+    max-width: fit-content;
+    background-color: coral;
+}
+
+.menu {
+    display: inline-block;
+    text-align: center;
+    margin: 30px 30px 18px 30px;
+}
+
+.img {
+    height: 300px;
+    width: 300px;
 }
 
 a {
-    color: lightcoral;
+    font-size: 22px;
+    color: white;
     text-decoration: none;
+    display: block;
+    margin: 8px;
 }
